@@ -1,0 +1,46 @@
+{
+  "PanelId": "CustomTestPanel",
+  "BeadList": [
+    {
+      "_expectedBeadCount": 100,
+      "RegionId": 220,
+      "AnalyteName": "CTACK / CCL27",
+      "ExpectedBeadCount": 100,
+      "ActualBeadCount": 0,
+      "BeadPercentage": 0.0,
+      "IsDisabled": false,
+      "IsDataValid": true
+    },
+    {
+      "_expectedBeadCount": 100,
+      "RegionId": 230,
+      "AnalyteName": "ENA-78 / CXCL5",
+      "ExpectedBeadCount": 100,
+      "ActualBeadCount": 0,
+      "BeadPercentage": 0.0,
+      "IsDisabled": false,
+      "IsDataValid": true
+    },
+    {
+      "_expectedBeadCount": 100,
+      "RegionId": 250,
+      "AnalyteName": "Eotaxin-2 / CCL24",
+      "ExpectedBeadCount": 100,
+      "ActualBeadCount": 0,
+      "BeadPercentage": 0.0,
+      "IsDisabled": false,
+      "IsDataValid": true
+    },
+    {
+      "_expectedBeadCount": 100,
+      "RegionId": 260,
+      "AnalyteName": "Eotaxin-2 / CCL24",
+      "ExpectedBeadCount": 100,
+      "ActualBeadCount": 0,
+      "BeadPercentage": 0.0,
+      "IsDisabled": false,
+      "IsDataValid": true
+    }
+  ],
+  "IsDataValid": true
+}

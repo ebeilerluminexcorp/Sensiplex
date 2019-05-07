@@ -1,0 +1,16 @@
+{
+  "PanelId": "TestPanel",
+  "BeadList": [
+    {
+      "_expectedBeadCount": 10,
+      "RegionId": 10,
+      "AnalyteName": "testanalyte",
+      "ExpectedBeadCount": 10,
+      "ActualBeadCount": 10,
+      "BeadPercentage": 100.0,
+      "IsDisabled": true,
+      "IsDataValid": true
+    }
+  ],
+  "IsDataValid": true
+}

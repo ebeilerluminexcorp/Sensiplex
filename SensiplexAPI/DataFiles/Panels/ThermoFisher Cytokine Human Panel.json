@@ -1,0 +1,101 @@
+{
+  "PanelId": "Panel 1-123",
+  "BeadList": [
+    {
+      "RegionId": 10,
+      "AnalyteName": "GM-CSF"
+    },
+    {
+      "RegionId": 15,
+      "AnalyteName": "IFN-α"
+    },
+    {
+      "RegionId": 20,
+      "AnalyteName": "IFN-γ"
+    },
+    {
+      "RegionId": 25,
+      "AnalyteName": "IL-1β"
+    },
+    {
+      "RegionId": 30,
+      "AnalyteName": "IL-2"
+    },
+    {
+      "RegionId": 35,
+      "AnalyteName": "IL-2R"
+    },
+    {
+      "RegionId": 40,
+      "AnalyteName": "IL-4"
+    },
+    {
+      "RegionId": 45,
+      "AnalyteName": "IL-5"
+    },
+    {
+      "RegionId": 50,
+      "AnalyteName": "IL-6"
+    },
+    {
+      "RegionId": 55,
+      "AnalyteName": "IL-7"
+    },
+    {
+      "RegionId": 60,
+      "AnalyteName": "IL-8"
+    },
+    {
+      "RegionId": 65,
+      "AnalyteName": "IL-10"
+    },
+    {
+      "RegionId": 70,
+      "AnalyteName": "IL-12 (p40/p70)"
+    },
+    {
+      "RegionId": 75,
+      "AnalyteName": "IL-13"
+    },
+    {
+      "RegionId": 80,
+      "AnalyteName": "IL-15"
+    },
+    {
+      "RegionId": 85,
+      "AnalyteName": "IL-17"
+    },
+    {
+      "RegionId": 90,
+      "AnalyteName": "TNF-α"
+    },
+    {
+      "RegionId": 91,
+      "AnalyteName": "Eotaxin"
+    },
+    {
+      "RegionId": 92,
+      "AnalyteName": "IP-10"
+    },
+    {
+      "RegionId": 93,
+      "AnalyteName": "MCP-1"
+    },
+    {
+      "RegionId": 94,
+      "AnalyteName": "MIG"
+    },
+    {
+      "RegionId": 95,
+      "AnalyteName": "MIP-1α"
+    },
+    {
+      "RegionId": 96,
+      "AnalyteName": "MIP-1β"
+    },
+    {
+      "RegionId": 97,
+      "AnalyteName": "RANTES"
+    }
+  ]
+}

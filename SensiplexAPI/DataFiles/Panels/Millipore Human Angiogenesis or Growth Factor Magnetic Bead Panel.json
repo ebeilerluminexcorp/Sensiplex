@@ -1,0 +1,73 @@
+{
+  "PanelId": "Panel 1-123",
+  "BeadList": [
+    {
+      "RegionId": 105,
+      "AnalyteName": "Angiopoietin-2"
+    },
+    {
+      "RegionId": 110,
+      "AnalyteName": "BMP-9"
+    },
+    {
+      "RegionId": 115,
+      "AnalyteName": "EGF"
+    },
+    {
+      "RegionId": 120,
+      "AnalyteName": "Endoglin"
+    },
+    {
+      "RegionId": 125,
+      "AnalyteName": "Endothelin-1"
+    },
+    {
+      "RegionId": 130,
+      "AnalyteName": "FGF-1"
+    },
+    {
+      "RegionId": 135,
+      "AnalyteName": "FGF-2"
+    },
+    {
+      "RegionId": 140,
+      "AnalyteName": "Follistatin"
+    },
+    {
+      "RegionId": 145,
+      "AnalyteName": "G-CSF"
+    },
+    {
+      "RegionId": 150,
+      "AnalyteName": "HB-EGF"
+    },
+    {
+      "RegionId": 155,
+      "AnalyteName": "HGF"
+    },
+    {
+      "RegionId": 160,
+      "AnalyteName": "IL-8"
+    },
+    {
+      "RegionId": 165,
+      "AnalyteName": "Leptin"
+    },
+    {
+      "RegionId": 170,
+      "AnalyteName": "PLGF"
+    },
+    {
+      "RegionId": 175,
+      "AnalyteName": "VEGF-A"
+    },
+    {
+      "RegionId": 180,
+      "AnalyteName": "VEGF-C"
+    },
+    {
+      "RegionId": 185,
+      "AnalyteName": "VEGF-D"
+    }
+  ]
+}

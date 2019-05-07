@@ -1,0 +1,16 @@
+{
+  "PanelId": "string",
+  "BeadList": [
+    {
+      "_expectedBeadCount": 0,
+      "RegionId": 0,
+      "AnalyteName": "string",
+      "ExpectedBeadCount": 0,
+      "ActualBeadCount": 0,
+      "BeadPercentage": "NaN",
+      "IsDisabled": true,
+      "IsDataValid": false
+    }
+  ],
+  "IsDataValid": false
+}

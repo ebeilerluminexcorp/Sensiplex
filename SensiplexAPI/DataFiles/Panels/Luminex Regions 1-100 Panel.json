@@ -1,0 +1,405 @@
+{
+  "PanelId": "Luminex Regions 1-100",
+  "BeadList": [
+    {
+      "RegionId": 1,
+      "AnalyteName": "Analyte-1"
+    },
+    {
+      "RegionId": 2,
+      "AnalyteName": "Analyte-2"
+    },
+    {
+      "RegionId": 3,
+      "AnalyteName": "Analyte-3"
+    },
+    {
+      "RegionId": 4,
+      "AnalyteName": "Analyte-4"
+    },
+    {
+      "RegionId": 5,
+      "AnalyteName": "Analyte-5"
+    },
+    {
+      "RegionId": 6,
+      "AnalyteName": "Analyte-6"
+    },
+    {
+      "RegionId": 7,
+      "AnalyteName": "Analyte-7"
+    },
+    {
+      "RegionId": 8,
+      "AnalyteName": "Analyte-8"
+    },
+    {
+      "RegionId": 9,
+      "AnalyteName": "Analyte-9"
+    },
+    {
+      "RegionId": 10,
+      "AnalyteName": "Analyte-10"
+    },
+    {
+      "RegionId": 11,
+      "AnalyteName": "Analyte-11"
+    },
+    {
+      "RegionId": 12,
+      "AnalyteName": "Analyte-12"
+    },
+    {
+      "RegionId": 13,
+      "AnalyteName": "Analyte-13"
+    },
+    {
+      "RegionId": 14,
+      "AnalyteName": "Analyte-14"
+    },
+    {
+      "RegionId": 15,
+      "AnalyteName": "Analyte-15"
+    },
+    {
+      "RegionId": 16,
+      "AnalyteName": "Analyte-16"
+    },
+    {
+      "RegionId": 17,
+      "AnalyteName": "Analyte-17"
+    },
+    {
+      "RegionId": 18,
+      "AnalyteName": "Analyte-18"
+    },
+    {
+      "RegionId": 19,
+      "AnalyteName": "Analyte-19"
+    },
+    {
+      "RegionId": 20,
+      "AnalyteName": "Analyte-20"
+    },
+    {
+      "RegionId": 21,
+      "AnalyteName": "Analyte-21"
+    },
+    {
+      "RegionId": 22,
+      "AnalyteName": "Analyte-22"
+    },
+    {
+      "RegionId": 23,
+      "AnalyteName": "Analyte-23"
+    },
+    {
+      "RegionId": 24,
+      "AnalyteName": "Analyte-24"
+    },
+    {
+      "RegionId": 25,
+      "AnalyteName": "Analyte-25"
+    },
+    {
+      "RegionId": 26,
+      "AnalyteName": "Analyte-26"
+    },
+    {
+      "RegionId": 27,
+      "AnalyteName": "Analyte-27"
+    },
+    {
+      "RegionId": 28,
+      "AnalyteName": "Analyte-28"
+    },
+    {
+      "RegionId": 29,
+      "AnalyteName": "Analyte-29"
+    },
+    {
+      "RegionId": 30,
+      "AnalyteName": "Analyte-30"
+    },	
+    {
+      "RegionId": 31,
+      "AnalyteName": "Analyte-31"
+    },
+    {
+      "RegionId": 32,
+      "AnalyteName": "Analyte-32"
+    },
+    {
+      "RegionId": 33,
+      "AnalyteName": "Analyte-33"
+    },
+    {
+      "RegionId": 34,
+      "AnalyteName": "Analyte-34"
+    },
+    {
+      "RegionId": 35,
+      "AnalyteName": "Analyte-35"
+    },
+    {
+      "RegionId": 36,
+      "AnalyteName": "Analyte-36"
+    },
+    {
+      "RegionId": 37,
+      "AnalyteName": "Analyte-37"
+    },
+    {
+      "RegionId": 38,
+      "AnalyteName": "Analyte-38"
+    },
+    {
+      "RegionId": 39,
+      "AnalyteName": "Analyte-39"
+    },
+    {
+      "RegionId": 40,
+      "AnalyteName": "Analyte-40"
+    },
+    {
+      "RegionId": 41,
+      "AnalyteName": "Analyte-41"
+    },
+    {
+      "RegionId": 42,
+      "AnalyteName": "Analyte-42"
+    },
+    {
+      "RegionId": 43,
+      "AnalyteName": "Analyte-43"
+    },
+    {
+      "RegionId": 44,
+      "AnalyteName": "Analyte-44"
+    },
+    {
+      "RegionId": 45,
+      "AnalyteName": "Analyte-45"
+    },
+    {
+      "RegionId": 46,
+      "AnalyteName": "Analyte-46"
+    },
+    {
+      "RegionId": 47,
+      "AnalyteName": "Analyte-47"
+    },
+    {
+      "RegionId": 48,
+      "AnalyteName": "Analyte-48"
+    },
+    {
+      "RegionId": 49,
+      "AnalyteName": "Analyte-49"
+    },
+    {
+      "RegionId": 50,
+      "AnalyteName": "Analyte-50"
+    },
+    {
+      "RegionId": 51,
+      "AnalyteName": "Analyte-51"
+    },
+    {
+      "RegionId": 52,
+      "AnalyteName": "Analyte-52"
+    },
+    {
+      "RegionId": 53,
+      "AnalyteName": "Analyte-53"
+    },
+    {
+      "RegionId": 54,
+      "AnalyteName": "Analyte-54"
+    },
+    {
+      "RegionId": 55,
+      "AnalyteName": "Analyte-55"
+    },
+    {
+      "RegionId": 56,
+      "AnalyteName": "Analyte-56"
+    },
+    {
+      "RegionId": 57,
+      "AnalyteName": "Analyte-57"
+    },
+    {
+      "RegionId": 58,
+      "AnalyteName": "Analyte-58"
+    },
+    {
+      "RegionId": 59,
+      "AnalyteName": "Analyte-59"
+    },
+    {
+      "RegionId": 60,
+      "AnalyteName": "Analyte-60"
+    },
+    {
+      "RegionId": 61,
+      "AnalyteName": "Analyte-61"
+    },
+    {
+      "RegionId": 62,
+      "AnalyteName": "Analyte-62"
+    },
+    {
+      "RegionId": 63,
+      "AnalyteName": "Analyte-63"
+    },
+    {
+      "RegionId": 64,
+      "AnalyteName": "Analyte-64"
+    },
+    {
+      "RegionId": 65,
+      "AnalyteName": "Analyte-65"
+    },
+    {
+      "RegionId": 66,
+      "AnalyteName": "Analyte-66"
+    },
+    {
+      "RegionId": 67,
+      "AnalyteName": "Analyte-67"
+    },
+    {
+      "RegionId": 68,
+      "AnalyteName": "Analyte-68"
+    },
+    {
+      "RegionId": 69,
+      "AnalyteName": "Analyte-69"
+    },
+    {
+      "RegionId": 70,
+      "AnalyteName": "Analyte-70"
+    },
+    {
+      "RegionId": 71,
+      "AnalyteName": "Analyte-71"
+    },
+    {
+      "RegionId": 72,
+      "AnalyteName": "Analyte-72"
+    },
+    {
+      "RegionId": 73,
+      "AnalyteName": "Analyte-73"
+    },
+    {
+      "RegionId": 74,
+      "AnalyteName": "Analyte-74"
+    },
+    {
+      "RegionId": 75,
+      "AnalyteName": "Analyte-75"
+    },
+    {
+      "RegionId": 76,
+      "AnalyteName": "Analyte-76"
+    },
+    {
+      "RegionId": 77,
+      "AnalyteName": "Analyte-77"
+    },
+    {
+      "RegionId": 78,
+      "AnalyteName": "Analyte-78"
+    },
+    {
+      "RegionId": 79,
+      "AnalyteName": "Analyte-79"
+    },
+    {
+      "RegionId": 80,
+      "AnalyteName": "Analyte-80"
+    },
+    {
+      "RegionId": 81,
+      "AnalyteName": "Analyte-81"
+    },
+    {
+      "RegionId": 82,
+      "AnalyteName": "Analyte-82"
+    },
+    {
+      "RegionId": 83,
+      "AnalyteName": "Analyte-83"
+    },
+    {
+      "RegionId": 84,
+      "AnalyteName": "Analyte-84"
+    },
+    {
+      "RegionId": 85,
+      "AnalyteName": "Analyte-85"
+    },
+    {
+      "RegionId": 86,
+      "AnalyteName": "Analyte-86"
+    },
+    {
+      "RegionId": 87,
+      "AnalyteName": "Analyte-87"
+    },
+    {
+      "RegionId": 88,
+      "AnalyteName": "Analyte-88"
+    },
+    {
+      "RegionId": 89,
+      "AnalyteName": "Analyte-89"
+    },
+    {
+      "RegionId": 90,
+      "AnalyteName": "Analyte-90"
+    },
+    {
+      "RegionId": 91,
+      "AnalyteName": "Analyte-91"
+    },
+    {
+      "RegionId": 92,
+      "AnalyteName": "Analyte-92"
+    },
+    {
+      "RegionId": 93,
+      "AnalyteName": "Analyte-93"
+    },
+    {
+      "RegionId": 94,
+      "AnalyteName": "Analyte-94"
+    },
+    {
+      "RegionId": 95,
+      "AnalyteName": "Analyte-95"
+    },
+    {
+      "RegionId": 96,
+      "AnalyteName": "Analyte-96"
+    },
+    {
+      "RegionId": 97,
+      "AnalyteName": "Analyte-97"
+    },
+    {
+      "RegionId": 98,
+      "AnalyteName": "Analyte-98"
+    },
+    {
+      "RegionId": 99,
+      "AnalyteName": "Analyte-99"
+    },
+    {
+      "RegionId": 100,
+      "AnalyteName": "Analyte-100"
+    },	
+  ]
+}

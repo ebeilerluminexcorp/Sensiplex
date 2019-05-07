@@ -1,0 +1,45 @@
+{
+  "PanelId": "Panel 1-123",
+  "BeadList": [
+    {
+      "RegionId": 200,
+      "AnalyteName": "6Ckine / CCL21"
+    },
+    {
+      "RegionId": 210,
+      "AnalyteName": "BCA-1 / CXCL13"
+    },
+    {
+      "RegionId": 220,
+      "AnalyteName": "CTACK / CCL27"
+    },
+    {
+      "RegionId": 230,
+      "AnalyteName": "ENA-78 / CXCL5"
+    },
+    {
+      "RegionId": 240,
+      "AnalyteName": "Eotaxin / CCL11"
+    },
+    {
+      "RegionId": 250,
+      "AnalyteName": "Eotaxin-2 / CCL24"
+    },
+    {
+      "RegionId": 260,
+      "AnalyteName": "Eotaxin-3 / CCL26"
+    },
+    {
+      "RegionId": 270,
+      "AnalyteName": "Fractalkine / CX3CL1"
+    },
+    {
+      "RegionId": 280,
+      "AnalyteName": "GCP-2 / CXCL6"
+    },
+    {
+      "RegionId": 290,
+      "AnalyteName": "GM-CSF"
+    }
+  ]
+}
