@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28822.285
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SensiplexAPI", "SensiplexAPI\SensiplexAPI.csproj", "{C2210E08-0923-4D03-A15D-36704344F460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2210E08-0923-4D03-A15D-36704344F460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2210E08-0923-4D03-A15D-36704344F460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2210E08-0923-4D03-A15D-36704344F460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2210E08-0923-4D03-A15D-36704344F460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D520DD4A-90FB-4397-BCF5-D316CC75D6F8}
+	EndGlobalSection
+EndGlobal
